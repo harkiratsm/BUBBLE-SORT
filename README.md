@@ -39,7 +39,7 @@ Bubble sort is used in the following cases where
 
 
 # LINKS FOR REFERENCE
-1. JENNY'S LECTURE
+## 1. JENNY'S LECTURE
 https://www.youtube.com/watch?v=o4bAoo_gFBU&t=193s
-2.GATE SMASHERS
+## 2.GATE SMASHERS
 https://www.youtube.com/watch?v=re9ytVtt5zg
