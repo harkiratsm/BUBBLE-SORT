@@ -35,3 +35,11 @@ Bubble sort is used in the following cases where
 
 1. the complexity of the code does not matter.
 2. a short code is preferred.
+
+
+
+# LINKS FOR REFERENCE
+1. JENNY'S LECTURE
+https://www.youtube.com/watch?v=o4bAoo_gFBU&t=193s
+2.GATE SMASHERS
+https://www.youtube.com/watch?v=re9ytVtt5zg
